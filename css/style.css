@@ -1,0 +1,67 @@
+body {
+
+font-family:"OCR A Std", monospace;
+
+background-color: #FFF5F2 ;
+
+}
+
+H1 {
+
+background-color: #F5BABB;
+
+}
+
+H2 {
+
+background-color: #568F87;
+
+}
+
+P{
+
+color: #064232;
+
+}
+
+ul{
+
+color: #064232;
+
+}
+
+#mylovely { 
+
+color: rgb(134, 49, 113);
+
+}
+
+form {
+
+border: 2px solid #568F87;
+
+padding: 15px;
+
+background-color: #f9eee2; /* Optional: adds a background color */
+
+}
+
+input[type="submit"]:hover {
+
+background-color: #2efc00; 
+
+color: #ffffff; 
+
+cursor: pointer;
+
+}
+
+input[type="reset"]:hover {
+
+background-color: #2efc00; 
+
+color: #ffffff; 
+
+cursor: pointer; 
+
+}
